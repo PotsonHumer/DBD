@@ -17,6 +17,7 @@
 <h1>訂便當系統</h1>
 	<ul>
 		<li><a href="dbd_duty.php">值日生排表</a></li>
+		<li><a href="dbd.php?admin_pass=1">顯示所有菜單</a></li>
 		<li><a href="dbd.php?list_show=1">按此直接顯示訂單</a></li>
 		<li><a href="dbd.php">回訂便當系統</a></li>
 	</ul>

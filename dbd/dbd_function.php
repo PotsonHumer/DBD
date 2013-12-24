@@ -26,7 +26,7 @@
 	class DBD{
 		function __construct($db){
 			//初始設定
-			$this->b = 19;
+			$this->b = 20;
 			$this->d = 19;
 			$this->vote_limit = 10;
 			$this->time_limit = 11;
